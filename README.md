@@ -1,5 +1,8 @@
 # React COVID Tracker
 
+This website is Live and can be accesed by the link below :
+[http://covid19-visualtracker.netlify.app/](http://covid19-visualtracker.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
